@@ -1,2 +1,2 @@
 # Genster
-Practicing my skills
+Practicing my skills using the tools learned.
